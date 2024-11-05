@@ -1,3 +1,5 @@
+// class 1
+
 const id = 1234
 let email = "shivam@gmail.com"
 var password= 1234
